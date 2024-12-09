@@ -1,1 +1,1 @@
-Build TeachAI for accelerated learning
+Building TeachAI for AI accelerated learning
