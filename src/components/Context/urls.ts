@@ -15,4 +15,11 @@ export const urls = [{
   title: "Matisee Thybulle",
   seeded: false,
   loading: false,
-}]
+},
+{
+  url: "https://archive.apache.org/dist/spark/docs/3.2.0/",
+  title: "Spark",
+  seeded: false,
+  loading: false,
+}
+]

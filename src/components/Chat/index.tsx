@@ -21,7 +21,7 @@ const Chat: React.FC = () => {
           onChange={handleInputChange}
         />
         <span className="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none text-gray-400">
-          Press ⮐ to send
+          Write your question here
         </span>
       </form>
     </div>

@@ -5,7 +5,7 @@ import { Context } from "@/components/Context";
 import Header from "@/components/Header";
 import Chat from "@/components/Chat";
 import { useChat } from "ai/react";
-import InstructionModal from "./components/InstructionModal";
+import InstructionModal from "../components/InstructionModal";
 import { AiFillGithub, AiOutlineInfoCircle } from "react-icons/ai";
 
 const Page: React.FC = () => {

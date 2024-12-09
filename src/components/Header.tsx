@@ -1,5 +1,5 @@
 import Image from "next/image";
-import TeachLogo from "../../../public/teachai.svg"
+import TeachLogo from "../../public/teachai.svg"
 
 export default function Header({ className }: { className?: string }) {
   return (
